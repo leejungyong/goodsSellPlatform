@@ -22,8 +22,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 演示
 
-![1]()
+![1](https://github.com/leejungyong/-/blob/master/src/assets/1.png)
 
-![2]()
+![2](https://github.com/leejungyong/-/blob/master/src/assets/2.png)
 
-![3]()
+![3](https://github.com/leejungyong/-/blob/master/src/assets/3.png)
